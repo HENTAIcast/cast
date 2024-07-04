@@ -1,4 +1,4 @@
-# cast.
+# cast
 @@ -17,7 +17,7 @@ jobs:
 
     strategy:
